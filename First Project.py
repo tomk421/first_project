@@ -27,6 +27,7 @@ class Door:
             self.unlock()
         else:
             print("Access Denied")
+            self.inspect()
     
     def inspect(self):
         print("The door looks very sturdy. It has an electronic lock with a numeric keypad. There are four underscores on the digital display, so it looks like you'll need a 4-digit code to unlock the door.")
