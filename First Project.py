@@ -1,5 +1,5 @@
 print("Welcome to Tom\'s escape room! \n")
-print("You are in a small room, from which you must escape! To your right is the door, which seems to have an electronic lock with a keypad.  In front of you is a desk. Behind you in the corner is a cupboard. On the wall to your left is a clock, and a shelf with a picture on it. There is a plant in the corner to your right.")
+print("You are in a small room, from which you must escape! \nTo your right is the door, which seems to have an electronic lock with a keypad. \nIn front of you is a desk. \nBehind you in the corner is a cupboard. \nOn the wall to your left is a clock, and a shelf with a picture on it.\nThere is a plant in the corner to your right.")
 
 class Player:
     def __init__(self):
